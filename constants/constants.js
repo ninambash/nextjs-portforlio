@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'MERN Mavericks',
-    description:"This was a group project. It is designed to organize and plan out the homes of new homeowners. The app lets you easily create, edit, and share videos of your reviews you've created on youTube. This project taught me about Git workflow colaboration with fellow developers. hgkjlgdiadsgc iasdgfiuhfc shdiuchsiduhisud jhshdiuhsdu  isdbdcfiudbc ",
+    description:"This was a group project, we created an app to organize and plan new homeowners' homes, allowing easy creation, editing, and sharing of YouTube review videos. Working on the project provided valuable experience in Git workflow collaboration, enabling simultaneous work, change tracking, and conflict management among developers.. ",
     image: '/images/groupproject.png',
     tags: ['React', 'Bulma','Nodejs','Express', 'MongoDB'],
     source: 'https://github.com/ninambash/project-3-client',
@@ -30,7 +30,7 @@ export const projects = [
     title: 'Crowdfunding app',
     description: "This is a a platform that helps animal shelters connect with donors and raise the resources they need to provide better care for animals in need",
     image: '/images/goodwillguru.png',
-    tags: ['React', 'Express', 'MongoDB','JavaScript', 'NodeJS'],
+    tags: ['React', 'Express', 'MongoDB','JavaScript', 'Stripe'],
     source: 'https://unrivaled-gelato-e66c4f.netlify.app/',
     visit: 'https://github.com/ninambash/goodwilGuru',
     id: 3,
