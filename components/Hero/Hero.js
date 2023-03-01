@@ -6,11 +6,11 @@ import { LeftSection } from './HeroStyles';
 const Hero = () => (
   <Section row nopadding>
     <LeftSection style={{ display: 'flex', flexDirection: 'row-reverse', alignItems: 'center' }}>
-      <div style={{ width: '60%', marginLeft: '20rem', maxWidth: '500px' }}>
-        <img src="/images/profile.JPG" alt="Profile picture" style={{ maxWidth: '100%', height: 'auto', borderRadius: 5 }} />
+      <div style={{ width: '60%', marginLeft: '5rem', maxWidth: '500px' }}>
+        <img src="/images/profile.JPG" alt="Profile picture" style={{ maxWidth: '100%', height: 'auto', borderRadius: 50 }} />
       </div>
       <div style={{ width: '47%' }}>
-        <SectionTitle main center>
+        <SectionTitle main center className="fade-in">
           Hello, I'm Nina Mbarack
         </SectionTitle>
         <SectionText>

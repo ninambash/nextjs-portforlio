@@ -16,4 +16,18 @@ export const LeftSection = styled.div`
     margin: 0 auto;
     flex-direction: row-reverse;
   }
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fade-in {
+    animation: fade-in 1s ease-out;
+  }
+  
 `;
+
