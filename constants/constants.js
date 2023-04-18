@@ -4,8 +4,9 @@ export const projects = [
     description: "A board game that challenges your memory. This game is based on a book called Improving Memory Through Creativity by Amanda Pike. This is a vanilla JavaScript game. It has Start button to start playing the game, set timer, event listeners,win conditions and a few other functionalities. The game will get challenging the more you play",
       image: '/images/colortherapy.png',
       tags: [' JavaScript', 'Vanilla DOM', 'CSS', 'HTML'],
-    source: 'https://github.com/ninambash/Poject1-COLOR-THERAPY',
-    visit: 'https://ninambash.github.io/Poject1-COLOR-THERAPY/',
+    source: ' https://ninambash.github.io/Poject1-COLOR-THERAPY/',
+   
+    visit: 'https://github.com/ninambash/Poject1-COLOR-THERAPY',
     id: 0,
   },
   {
@@ -13,8 +14,10 @@ export const projects = [
     description:"This was a group project, we created an app to organize and plan new homeowners' homes, allowing easy creation, editing, and sharing of YouTube review videos. Working on the project provided valuable experience in Git workflow collaboration, enabling simultaneous work, change tracking, and conflict management among developers.. ",
     image: '/images/groupproject.png',
     tags: ['React', 'Bulma','Nodejs','Express', 'MongoDB'],
-    source: 'https://github.com/ninambash/project-3-client',
-    visit: 'https://stellular-horse-44ede4.netlify.app/',
+  
+    visit: 'https://github.com/ninambash/project-3-client',
+    source: 'https://stellular-horse-44ede4.netlify.app/',
+    
     id: 1,
   },
   {
@@ -22,8 +25,9 @@ export const projects = [
     description: "This is a full-stack app that a real estate company uses to With this app, you can easily Create, Read, Update, and Delete (CRUD). The app uses the latest in RESTful routing.",
       image: '/images/realestate.png',
       tags: ['React', 'TypeScript', 'MongoDB', 'NodeJs', 'Express'],
-    source: 'https://github.com/ninambash/propello-client',
-    visit: 'https://propello-real-estate-app.netlify.app/properties',
+    source: 'https://propello-real-estate-app.netlify.app/properties',
+    visit: 'https://github.com/ninambash/propello-client',
+    
     id: 2,
   },
   {
