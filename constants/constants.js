@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: 'Color Therapy',
-    description: "A board game that challenges your memory. This game is based on a book called Improving Memory Through Creativity by Amanda Pike. This is a vanilla JavaScript game. It has Start button to start playing the game, set timer, event listeners,win conditions and a few other functionalities. The game will get challenging the more you play",
-      image: '/images/colortherapy.png',
+    title: 'Alecto AI',
+    description: "Alecto AI is a powerful facial recognition tool designed to help individuals identify instances of online image abuse, such as deepfakes, fake profiles, revenge porn, identity theft, IP infringement, and more. Our platform allows users to search the web for any instances where their photos or videos are posted, including social media accounts, online dating profiles, and pornographic/explicit content.",
+      image: '/images/alecto.png',
       tags: [' JavaScript', 'Vanilla DOM', 'CSS', 'HTML'],
-    source: ' https://ninambash.github.io/Poject1-COLOR-THERAPY/',
+    site: ' https://alectoai.com/',
    
-    visit: 'https://github.com/ninambash/Poject1-COLOR-THERAPY',
+    visit: 'https://github.com/AlectoAI/alecto-react-website',
     id: 0,
   },
   {
