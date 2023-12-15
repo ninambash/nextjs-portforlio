@@ -4,7 +4,7 @@ export const projects = [
     description: "Alecto AI is a powerful facial recognition tool designed to help individuals identify instances of online image abuse, such as deepfakes, fake profiles, revenge porn, identity theft, IP infringement, and more. Our platform allows users to search the web for any instances where their photos or videos are posted, including social media accounts, online dating profiles, and pornographic/explicit content.",
       image: '/images/alecto.png',
       tags: [' JavaScript', 'Vanilla DOM', 'CSS', 'HTML'],
-    site: ' https://alectoai.com/',
+   source: ' https://alectoai.com/',
    
     visit: 'https://github.com/AlectoAI/alecto-react-website',
     id: 0,
